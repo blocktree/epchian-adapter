@@ -1,7 +1,7 @@
 package openwtester
 
 import (
-	"github.com/blocktree/cosmos-adapter/epchian"
+	"github.com/blocktree/epchian-adapter/epchian"
 	"github.com/blocktree/openwallet/v2/log"
 	"github.com/blocktree/openwallet/v2/openw"
 )

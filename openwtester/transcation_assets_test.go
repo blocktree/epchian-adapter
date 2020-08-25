@@ -17,9 +17,9 @@ package openwtester
 
 import (
 	"fmt"
+	"github.com/blocktree/epchian-adapter/epchian"
 	"testing"
 
-	"github.com/blocktree/cosmos-adapter/epchian"
 	"github.com/blocktree/openwallet/v2/openw"
 
 	"github.com/blocktree/openwallet/v2/log"
